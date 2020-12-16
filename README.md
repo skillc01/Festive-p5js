@@ -14,10 +14,9 @@ Use Safari, firefox or chrome.
 
 * [p5js](https://p5js.org) 
 
-## Screenshots and video
+## Screenshots 
 
-
-
+Can be seen on https://bbc.github.io/2020-creative-coding-hack/
 
 ## Authors
 
